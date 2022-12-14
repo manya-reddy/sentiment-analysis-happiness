@@ -1,0 +1,1001 @@
+uiversity_id,country_code,uni_name,uni_url
+19,USA,"California Baptist College",http://www.calbaptist.edu/
+20,USA,"California Coast University",http://www.calcoast.edu/
+21,USA,"California College for Health Sciences",http://www.cchs.edu/
+22,USA,"California College of Arts and Crafts",http://www.ccac-art.edu/
+23,USA,"California College of Podiatric Medicine",http://www.ccpm.edu/
+24,USA,"California College San Diego",http://www.cc-sd.edu/
+25,USA,"California Institute of Integral Studies",http://www.ciis.edu/
+26,USA,"California Institute of Technology",http://www.caltech.edu/
+27,USA,"California Institute of the Arts",http://www.calarts.edu/
+28,USA,"California Lutheran University",http://www.callutheran.edu/
+29,USA,"California Maritime Academy",http://www.csum.edu/
+30,USA,"California Polytechnic State University - San Luis Obispo",http://www.calpoly.edu/
+31,USA,"California School of Professional Psychology - Berkley/Alameda",http://www.cspp.edu/
+32,USA,"California School of Professional Psychology - Fresno",http://www.cspp.edu/catalog/8.htm
+33,USA,"California School of Professional Psychology - Los Angels",http://www.cspp.edu/catalog/9.htm
+34,USA,"California School of Professional Psychology - San Diego",http://www.cspp.edu/catalog/10.htm
+35,USA,"California State Polytechnic University - Pomona",http://www.csupomona.edu/
+36,USA,"California State University, Bakersfield",http://www.csubak.edu/
+37,USA,"California State University, Channel Islands",http://www.csuci.edu/
+38,USA,"California State University, Chico",http://www.csuchico.edu/
+39,USA,"California State University, Dominguez Hills",http://www.csudh.edu/
+40,USA,"California State University, Fresno",http://www.csufresno.edu/
+41,USA,"California State University, Fullerton",http://www.fullerton.edu/
+42,USA,"California State University, Hayward",http://www.csuhayward.edu/
+43,USA,"California State University, Long Beach",http://www.csulb.edu/
+44,USA,"California State University, Los Angeles",http://www.calstatela.edu/
+45,USA,"California State University, Monterey Bay",http://www.monterey.edu/
+46,USA,"California State University, Northridge",http://www.csun.edu/
+47,USA,"California State University, Sacramento",http://www.csUSA.edu/
+48,USA,"California State University, San Bernadino",http://www.csUSAb.edu/
+49,USA,"California State University, San Marcos",http://www.csUSAm.edu/
+50,USA,"California State University, StanislaUSA",http://www.csUSAtan.edu/
+51,USA,"California University of Management and Sciences",http://cauniversity.edu.cufce.org/
+52,USA,"California University of Pennsylvania",http://www.cup.edu/
+53,USA,"California Western School of Law",http://www.cwsl.edu/
+54,USA,"Calumet College of St. Joseph",http://www.ccsj.edu/
+55,USA,"Calvary Bible College",http://www.calvary.edu/
+56,USA,"Calvin College",http://www.calvin.edu/
+57,USA,"Cambridge College",http://www.cambridge.edu/
+58,USA,"Cameron University",http://www.cameron.edu/
+59,USA,"Campbellsville College",http://www.campbellsvil.edu/
+60,USA,"Campbell University",http://www.campbell.edu/
+61,USA,"CanisiUSA College",http://www.canisiUSA.edu/
+62,USA,"Capella University",http://www.capella.edu/
+63,USA,"Capital University",http://www.capital.edu/
+64,USA,"Capital University Law School",http://www.law.capital.edu/
+65,USA,"Capitol College",http://www.capitol-college.edu/
+66,USA,"Cardinal Stritch University",http://www.stritch.edu/
+67,USA,"Carleton College",http://www.carleton.edu/
+68,USA,"Carlos Albizu University",http://www.albizu.edu/
+69,CHN,"Aletheia University",http://www.au.edu.CHN/
+70,CHN,"Central Police University",http://www.cpu.edu.CHN/
+71,CHN,"Chang Gung University",http://www.cgu.edu.CHN/
+72,CHN,"Chang Jung University",http://www.cju.edu.CHN/
+73,CHN,"Chao Yang University of Science and Technology",http://www.cyut.edu.CHN/
+74,CHN,"Chia Nana College of Pharmacy and Science",http://www.chna.edu.CHN/
+75,CHN,"China Medical College",http://www.cmc.edu.CHN/
+76,CHN,"Chinese Culture University",http://www.pccu.edu.CHN/
+77,CHN,"Ching Kuo Institue of Management & Health",http://www.cku.edu.CHN/
+78,CHN,"Chung Hua University",http://www.chu.edu.CHN/
+79,CHN,"Chung Shan Medical and Dental College",http://www.csmc.edu.CHN/
+80,CHN,"Chung Yuan Christian University",http://www.cycu.edu.CHN/
+81,CHN,"Da-Yeh University",http://www.dyu.edu.CHN/
+82,CHN,"Feng Chia University",http://www.fcu.edu.CHN/
+83,CHN,"Fu Jen Catholic University",http://www.fju.edu.CHN/
+84,CHN,"Hsuan Chuang University",http://www.hcu.edu.CHN/
+85,CHN,"Huafan University",http://www.hfu.edu.CHN/
+86,CHN,"I-Shou University",http://www.isu.edu.CHN/
+87,CHN,"Kaohsiung Medical College",http://www.kmc.edu.CHN/
+88,CHN,"Kaohsuing Open University",http://www.ouk.edu.CHN/
+89,CHN,"Kung Shan Institute of Technology",http://www.ksit.edu.CHN/
+90,CHN,"Kun Shan University",http://www.ksu.edu.CHN/
+91,CHN,"Ling Tung University",http://www.ltc.edu.CHN/
+92,CHN,"LungHwa University of Science and Technology",http://www.lhu.edu.CHN/
+93,CHN,"Ming Chuan University",http://www.mcu.edu.CHN/
+94,CHN,"Nanhua University",http://www.nhu.edu.CHN/
+95,CHN,"National Central University",http://www.ncu.edu.CHN/
+96,CHN,"National Changhua University of Education",http://www.ncue.edu.CHN/
+97,CHN,"National Chengchi University",http://www.nccu.edu.CHN/
+98,CHN,"National Cheng Kung University",http://english.web.ncku.edu.CHN/
+99,CHN,"National Chiao Tung University",http://www.nctu.edu.CHN/
+100,CHN,"National Chiayi University",http://www.ncyu.edu.CHN/
+101,CHN,"National Chi Nan University",http://www.ncnu.edu.CHN/
+102,CHN,"National Chung Cheng University",http://www.ccu.edu.CHN/
+103,CHN,"National Chung Hsing University, Taichung",http://www.nchu.edu.CHN/
+104,CHN,"National Chung Hsing University, Taipei",http://www.nchulc.edu.CHN/
+105,CHN,"National College of Physical Education and Sports",http://www.ncpes.edu.CHN/
+106,CHN,"National Dong Hwa University",http://www.ndhu.edu.CHN/
+107,CHN,"National Formosa University",http://www.nfu.edu.CHN/
+108,CHN,"National Hsin-Chu Teachers College",http://www.nhctc.edu.CHN/
+109,CHN,"National Hualien Teachers College",http://www.nhltc.edu.CHN/
+110,CHN,"National Ilan University",http://www.niu.edu.CHN/
+111,CHN,"National Institute of the Arts",http://www.nia.edu.CHN/
+112,CHN,"National Kaohsiung First University of Science and Technology",http://www.nkfu.edu.CHN/
+113,CHN,"National Kaohsiung Normal University",http://www.nknu.edu.CHN/
+114,CHN,"National Kaohsiung University of Applied Sciences",http://www.kuas.edu.CHN/
+115,CHN,"National Open University",http://www.nou.edu.CHN/
+116,CHN,"National Pingtung Teachers College",http://www.npttc.edu.CHN/
+117,CHN,"National Pingtung University of Science and Technology",http://www.npust.edu.CHN/
+118,CHN,"National Sun Yat-Sen University",http://www.nsysu.edu.CHN/
+119,CHN,"National Taichung Teachers College",http://www.ntctc.edu.CHN/
+120,CHN,"National Tainan Teachers College",http://www.ntntc.edu.CHN/
+121,CHN,"National Taipei College of Nursing",http://www.ntcn.edu.CHN/
+122,CHN,"National Taipei Teachers College",http://www.ntptc.edu.CHN/
+123,CHN,"National Taipei University",http://www.ntpu.edu.CHN/
+124,CHN,"National Taipei University of Technology",http://www.ntut.edu.CHN/
+125,CHN,"National Taitung Teachers College",http://www.ntttc.edu.CHN/
+126,CHN,"National Taiwan College of Arts",http://www.ntca.edu.CHN/
+127,CHN,"National Taiwan College of Physical Education and Sports",http://www.ntcpe.edu.CHN/
+128,CHN,"National Taiwan College of the Arts",http://www.ntca.edu.CHN/
+129,CHN,"National Taiwan Normal University",http://www.ntnu.edu.CHN/
+130,CHN,"National Taiwan Ocean University",http://www.ntou.edu.CHN/
+131,CHN,"National Taiwan University",http://www.ntu.edu.CHN/
+132,CHN,"National Taiwan University of Science and Technology",http://www.ntust.edu.CHN/
+133,CHN,"National Tsinghua University",http://www.nthu.edu.CHN/
+134,CHN,"National United University",http://www.nuu.edu.CHN/
+135,CHN,"National University of Kaohsiung",http://www.nuk.edu.CHN/
+136,CHN,"National Yang Ming Medical College",http://www.ym.edu.CHN/
+137,CHN,"National Yunlin University of Science and Technology",http://www.yuntech.edu.CHN/
+138,CHN,"Providence University",http://www.pu.edu.CHN/
+139,CHN,"Shih Chien University",http://www.scc.edu.CHN/
+140,CHN,"Shih Hsin University",http://www.shu.edu.CHN/
+141,CHN,"Soochow University",http://www.scu.edu.CHN/
+142,CHN,"Southern Taiwan University of Technology",http://www.stut.edu.CHN/
+143,CHN,"St. John's & St. Mary's Institute of Technology",http://www.sjsmit.edu.CHN/
+144,CHN,"TaiChung Healthcare and Management University",http://www.thmu.edu.CHN/
+145,CHN,"Tainan National College of the Arts",http://www.tnca.edu.CHN/
+146,CHN,"Taipei Medical College",http://www.tmc.edu.CHN/
+147,CHN,"Taipei Municipal Teachers College",http://www.tmtc.edu.CHN/
+148,CHN,"Taipei Physical Education College",http://www.tpec.edu.CHN/
+149,CHN,"Tamkang University",http://www.tku.edu.CHN/
+150,CHN,"Tatung Institute of Technology",http://www.ttit.edu.CHN/
+151,CHN,"TaTung University ",http://www.ttu.edu.CHN/
+152,CHN,"Tunghai University",http://www.thu.edu.CHN/
+153,CHN,"Tzu Chi College of Medicine and Humanities",http://www.tcu.edu.CHN/
+154,CHN,"Yuan Ze University",http://www.yzu.edu.CHN/
+155,JPN,"Aichi Gakuin University",http://www.aichi-gakuin.ac.JPN/
+156,JPN,"Aichi Gakusen University",http://www.gakusen.ac.JPN/
+157,JPN,"Aichi Institute of Technology",http://www.aitech.ac.JPN/
+158,JPN,"Aichi Medical University",http://www.aichi-med-u.ac.JPN/
+159,JPN,"Aichi Prefectural University",http://www.aichi-pu.ac.JPN/
+160,JPN,"Aichi Prefectural University of Fine Arts & Music",http://www.aichi-fam-u.ac.JPN/
+161,JPN,"Aichi Sangyo University",http://www.asu.ac.JPN/
+162,JPN,"Aichi Shukutoku University",http://www.aasa.ac.JPN/
+163,JPN,"Aichi University",http://www.aichi-u.ac.JPN/
+164,JPN,"Aichi University of Education",http://www.aichi-edu.ac.JPN/
+165,JPN,"Aikoku Gakuen University",http://www.aikoku-u.ac.JPN/
+166,JPN,"Akita University",http://www.akita-u.ac.JPN/
+167,JPN,"Akita University of Economics and Law",http://www.akeihou-u.ac.JPN/
+168,JPN,"American University Extension, Okinawa",http://www.aue-okinawa.ac.JPN/
+169,JPN,"Aomori Chuoh Gakuin University",http://www.aomoricgu.ac.JPN/
+170,JPN,"Aomori Public College",http://www.nebuta.ac.JPN/
+171,JPN,"Aomori University",http://www.aomori-u.ac.JPN/
+172,JPN,"Aomori University of Health and Welfare",http://www.auhw.ac.JPN/
+173,JPN,"Aoyama Gakuin University",http://www.aoyama.ac.JPN/
+174,JPN,"Asahikawa Medical College",http://www.asahikawa-med.ac.JPN/
+175,JPN,"Asahikawa University",http://www.asahikawa-u.ac.JPN/
+176,JPN,"Asahi University",http://www.asahi-u.ac.JPN/
+177,JPN,"Ashikaga Institute of Technology",http://www.ashitech.ac.JPN/
+178,JPN,"Ashiya University",http://www.ashiya-u.ac.JPN/
+179,JPN,"Asia University",http://www.asia-u.ac.JPN/
+180,JPN,"Atomi College",http://www.atomi.ac.JPN/
+181,JPN,"Azabu University",http://www.azabu-u.ac.JPN/
+182,JPN,"Baika Women's College",http://www.baika.ac.JPN/
+183,JPN,"Baiko Women's College",http://www.baiko.ac.JPN/
+184,JPN,"Beppu University",http://www.beppu-u.ac.JPN/
+185,JPN,"Bukkyo University",http://www.bukkyo-u.ac.JPN/
+186,JPN,"Bunka Women's University",http://www.bunka-wu.ac.JPN/
+187,JPN,"Bunkyo University",http://www.bunkyo.ac.JPN/
+188,JPN,"Chiba Institute of Technology",http://www.it-chiba.ac.JPN/
+189,JPN,"Chiba Keizai University",http://www.cku.ac.JPN/
+190,JPN,"Chiba University",http://www.chiba-u.ac.JPN/
+191,JPN,"Chiba University of Commerce",http://www.cuc.ac.JPN/
+192,JPN,"Chikushi Jogakuen University",http://www.chikushi.ac.JPN/
+193,JPN,"Chubu Gakuin University & Chubu Women's College",http://www.chubu-gu.ac.JPN/
+194,JPN,"Chubu University",http://www.chubu.ac.JPN/
+195,JPN,"Chukyo Gakuin University",http://www.chukyogakuin-u.ac.JPN/
+196,JPN,"Chukyo University",http://www.chukyo-u.ac.JPN/
+197,JPN,"Chukyo Women's University",http://www.chujo-u.ac.JPN/
+198,JPN,"Chuo Gakuin University",http://www.cgu.ac.JPN/
+199,JPN,"Chuo University",http://www.chuo-u.ac.JPN/
+200,JPN,"Daido Institute of Technology",http://www.daido-it.ac.JPN/
+201,JPN,"Daiichi College of Pharmaceutical Sciences",http://www.daiichi-cps.ac.JPN/
+202,JPN,"Dai Ichi University, College of Technology",http://www.daiichi-koudai.ac.JPN/
+203,JPN,"Daiichi University of Economics",http://www.daiichi-ue.ac.JPN/
+204,JPN,"Daito Bunka University",http://www.daito.ac.JPN/
+205,JPN,"Doho University",http://www.doho.ac.JPN/
+206,JPN,"Dohto University",http://www.dohto.ac.JPN/
+207,JPN,"Dokkyo University",http://www.dokkyo.ac.JPN/
+208,JPN,"Dokkyo University School of Medicine",http://www.dokkyomed.ac.JPN/
+209,JPN,"Doshisha University",http://www.doshisha.ac.JPN/
+210,JPN,"Doshisha Women's College of Liberal Arts",http://www.dwc.doshisha.ac.JPN/
+211,JPN,"Edogawa University",http://www.edogawa-u.ac.JPN/
+212,JPN,"Ehime University",http://www.ehime-u.ac.JPN/
+213,JPN,"Eichi University",http://www.eichi-u.ac.JPN/
+214,JPN,"Elisabeth University of Music",http://www.eum.ac.JPN/
+215,JPN,"Ferris University",http://www.ferris.ac.JPN/
+216,JPN,"Fujita Health University",http://www.fujita-hu.ac.JPN/
+217,JPN,"Fuji University",http://www.termnet.co.JPN/fujidai/
+218,JPN,"Fuji Women's College",http://www.fujijoshi.ac.JPN/
+219,JPN,"Fukui Medical School",http://www.fukui-med.ac.JPN/
+220,JPN,"Fukui Prefectural University",http://www.fpu.ac.JPN/
+221,JPN,"Fukui University",http://www.fukui-u.ac.JPN/
+222,JPN,"Fukui University of Technology",http://www.fukui-ut.ac.JPN/
+223,JPN,"Fukuoka Dental College",http://www.fdcnet.ac.JPN/
+224,JPN,"Fukuoka Institute of Technology",http://www.fit.ac.JPN/
+225,JPN,"Fukuoka International University",http://www.fukuoka-int-u.ac.JPN/
+226,JPN,"Fukuoka Prefectural University",http://www.fukuoka-pu.ac.JPN/
+227,JPN,"Fukuoka University",http://www.fukuoka-u.ac.JPN/
+228,JPN,"Fukuoka University of Education",http://www.fukuoka-edu.ac.JPN/
+229,JPN,"Fukuoka Women's University",http://www.fwu.ac.JPN/
+230,JPN,"Fukushima Medical College",http://www.fmu.ac.JPN/
+231,JPN,"Fukushima University",http://www.fukushima-u.ac.JPN/
+232,JPN,"Fukuyama Heisei University",http://www.heisei-u.ac.JPN/
+233,JPN,"Fukuyama University",http://www.fukuyama-u.ac.JPN/
+234,JPN,"Gakushuin University",http://www.gakushuin.ac.JPN/
+235,JPN,"Gifu Keizai University",http://www.gifu-keizai.ac.JPN/
+236,JPN,"Gifu Pharmaceutical University",http://www.gifu-pu.ac.JPN/
+237,JPN,"Gifu Shotoku Gakuen University",http://www.shotoku.ac.JPN/
+238,JPN,"Gifu University",http://www.gifu-u.ac.JPN/
+239,JPN,"Gifu University for Education and Languages",http://www.gifu-kyoiku.ac.JPN/
+240,JPN,"Gifu Women's University",http://www.gijodai.ac.JPN/
+241,JPN,"Graduate University for Advanced Studies",http://www.soken.ac.JPN/
+242,JPN,"Gunma Prefectural Women's University",http://www.gpwu.ac.JPN/
+243,JPN,"Gunma University",http://www.gunma-u.ac.JPN/
+244,JPN,"Hachinohe Institute of Technology",http://www.hi-tech.ac.JPN/
+245,JPN,"Hachinohe University",http://www.hachinohe-u.ac.JPN/
+246,JPN,"Hakodate University",http://www.hakodate-u.ac.JPN/
+247,JPN,"Hakuoh University",http://www.hakuoh.ac.JPN/
+248,JPN,"Hamamatsu University",http://www.hamamatsu-u.ac.JPN/
+249,JPN,"Hamamatsu University School of Medicine",http://www.hama-med.ac.JPN/
+250,JPN,"Hanazono University",http://www.hanazono.ac.JPN/
+251,JPN,"Hannan University",http://www.hannan-u.ac.JPN/
+252,JPN,"Heisei International University",http://www.hiu.ac.JPN/
+253,JPN,"Higashi Nippon International University",http://www.tonichi-kokusai-u.ac.JPN/
+254,JPN,"Hijiyama University",http://www.hijiyama-u.ac.JPN/
+255,JPN,"Himeji Dokkyo University",http://www.himeji-du.ac.JPN/
+256,JPN,"Himeji Institute of Technology",http://www.himeji-tech.ac.JPN/
+257,JPN,"Hirosaki Gakuin University",http://www.hirogaku-u.ac.JPN/
+258,JPN,"Hirosaki University",http://www.hirosaki-u.ac.JPN/
+259,JPN,"Hiroshima Bunkyo Women's University",http://www.h-bunkyo.ac.JPN/
+260,JPN,"Hiroshima City University",http://www.hiroshima-cu.ac.JPN/
+261,JPN,"Hiroshima Institute of Technology",http://www.it-hiroshima.ac.JPN/
+262,JPN,"Hiroshima International University",http://www.hirokoku-u.ac.JPN/
+263,JPN,"Hiroshima Jogakuin University",http://www.hju.ac.JPN/
+264,JPN,"Hiroshima Kokusai Gakuin University",http://www.hkg.ac.JPN/
+265,JPN,"Hiroshima Prefectural University",http://www.hiroshima-pu.ac.JPN/
+266,JPN,"Hiroshima Shudo University",http://www.shudo-u.ac.JPN/
+267,JPN,"Hiroshima University",http://www.hiroshima-u.ac.JPN/
+268,JPN,"Hiroshima University of Economics",http://www.hue.ac.JPN/
+269,JPN,"Hiroshima Women's University",http://www.hirojo-u.ac.JPN/
+270,JPN,"Hitotsubashi University",http://www.hit-u.ac.JPN/
+271,JPN,"Hokkaido Information University",http://www.do-johodai.ac.JPN/
+272,JPN,"Hokkaido Institute of Pharmaceutical Sciences",http://www.hokuyakudai.ac.JPN/
+273,JPN,"Hokkaido Institute of Technology",http://www.hit.ac.JPN/
+274,JPN,"Hokkaido Tokai University",http://www.u-tokai.ac.JPN/
+275,JPN,"Hokkaido University",http://www.hokudai.ac.JPN/
+276,JPN,"Hokkaido University of Education",http://www.hokkyodai.ac.JPN/
+277,JPN,"Hokkaido University of Health Sciences",http://www.hoku-iryo-u.ac.JPN/
+278,JPN,"Hokkaigakuen University",http://www.hokkai-s-u.ac.JPN/
+279,JPN,"Hokkaigakuen University of Kitami",http://www.hokkai-k-u.ac.JPN/
+280,JPN,"Hokuriku University",http://www.hokuriku-u.ac.JPN/
+281,JPN,"Hokusei Gakuen University",http://www.hokusei.ac.JPN/
+282,JPN,"Hosei University",http://www.hosei.ac.JPN/
+283,JPN,"Hoshi University",http://www.hoshi.ac.JPN/
+284,JPN,"Hyogo College of Medicine",http://www.hyo-med.ac.JPN/
+285,JPN,"Hyogo University",http://www.hyogo-dai.ac.JPN/
+286,JPN,"Hyogo University of Education",http://www.hyogo-u.ac.JPN/
+287,JPN,"Ibaraki Christian College",http://www.icc.ac.JPN/
+288,JPN,"Ibaraki Prefectural University of Health Sciences",http://www.ipu.ac.JPN/
+289,JPN,"Ibaraki University",http://www.ibaraki.ac.JPN/
+290,JPN,"International Buddhist University",http://www.shitennoji.ac.JPN/
+291,JPN,"International Budo University",http://www.budo-u.ac.JPN/
+292,JPN,"International Christian University",http://www.icu.ac.JPN/
+293,JPN,"International University of Health and Welfare",http://www.iuhw.ac.JPN/
+294,JPN,"International University of Japan",http://www.iuj.ac.JPN/
+295,JPN,"International University of Kagoshima",http://www.iuk.ac.JPN/
+296,JPN,"Ishinomaki Senshu University",http://www.isenshu-u.ac.JPN/
+297,JPN,"Iwaki Meisei University",http://www.iwakimu.ac.JPN/
+298,JPN,"Iwate Medical University",http://www.iwate-med.ac.JPN/
+299,JPN,"Iwate Prefectural University",http://www.iwate-pu.ac.JPN/
+300,JPN,"Iwate University",http://www.iwate-u.ac.JPN/
+301,JPN,"Japan Advanced Institute of Science and Technology",http://www.jaist.ac.JPN/
+302,JPN,"Japan College of Social Work",http://www.shakaijigyo.ac.JPN/
+303,JPN,"Japanese Red Cross College of Nursing",http://www.redcross.ac.JPN/
+304,JPN,"Japan Women's University",http://www.jwu.ac.JPN/
+305,JPN,"Jichi Medical School",http://www.jichi.ac.JPN/
+306,JPN,"Jikei University School of Medicine",http://www.jikei.ac.JPN/
+307,JPN,"Jissen Women's University",http://www.jissen.ac.JPN/
+308,JPN,"Jobu University",http://www.jobu.ac.JPN/
+309,JPN,"Joetsu University of Education",http://www.juen.ac.JPN/
+310,JPN,"Josai International University",http://www.jiu.ac.JPN/
+311,JPN,"Josai University",http://www.josai.ac.JPN/
+312,JPN,"Juntendo University",http://www.juntendo.ac.JPN/
+313,JPN,"Kagawa Institute of Nutrition",http://www.eiyo.ac.JPN/
+314,JPN,"Kagawa Medical School",http://www.kms.ac.JPN/
+315,JPN,"Kagawa University",http://www.kagawa-u.ac.JPN/
+316,JPN,"Kagoshima Immaculate Heart University",http://www.juntan.k-junshin.ac.JPN/jundai/
+317,JPN,"Kagoshima University",http://www.kagoshima-u.ac.JPN/
+318,JPN,"Kagoshima Women's College",http://www.kwc-u.ac.JPN/
+319,JPN,"Kamakura Women's College",http://www.kamakura-u.ac.JPN/
+320,JPN,"Kanagawa Dental College",http://www.kdcnet.ac.JPN/
+321,JPN,"Kanagawa Institute of Technology",http://www.kanagawa-it.ac.JPN/
+322,JPN,"Kanagawa University",http://www.kanagawa-u.ac.JPN/
+323,JPN,"Kanazawa College of Art",http://www.kanazawa-bidai.ac.JPN/
+324,JPN,"Kanazawa College of Economics",http://www.kanazawa-eco.ac.JPN/
+325,JPN,"Kanazawa Gakuin University",http://www.kanazawa-gu.ac.JPN/
+326,JPN,"Kanazawa Institute of Technology",http://www.kanazawa-it.ac.JPN/
+327,JPN,"Kanazawa Medical University",http://www.kanazawa-med.ac.JPN/
+328,JPN,"Kanazawa University",http://www.kanazawa-u.ac.JPN/
+329,JPN,"Kanda University of International Studies",http://www.kuis.ac.JPN/
+330,JPN,"Kansai Gaidai University",http://www.kansai-gaidai-u.ac.JPN/
+331,JPN,"Kansai Medical University",http://www.kmu.ac.JPN/
+332,JPN,"Kansai University",http://www.kansai-u.ac.JPN/
+333,JPN,"Kansai University of International Studies",http://www.kuins.ac.JPN/
+334,JPN,"Kansai University of Social Welfare",http://www.kusw.ac.JPN/
+335,JPN,"Kanto Gakuen University",http://www.kanto-gakuen.ac.JPN/
+336,JPN,"Kanto Gakuin University",http://www.kanto-gakuin.ac.JPN/
+337,JPN,"Kawamura Gakuen Woman's University",http://www.kgwu.ac.JPN/
+338,JPN,"Kawasaki Medical School",http://www.kawasaki-m.ac.JPN/
+339,JPN,"Kawasaki University of Medical Care",http://www.kawasaki-m.ac.JPN/mw/
+340,JPN,"Keiai University",http://www.u-keiai.ac.JPN/
+341,JPN,"Keio University",http://www.keio.ac.JPN/
+342,JPN,"Keisen Jogaku-en College",http://www.keisen.ac.JPN/
+343,JPN,"Keiwa College",http://www.keiwa-c.ac.JPN/
+344,JPN,"Kibi International University",http://www.kiui.ac.JPN/
+345,JPN,"Kinjo Gakuin University",http://www.kinjo-u.ac.JPN/
+346,JPN,"Kinki University",http://www.kindai.ac.JPN/
+347,JPN,"Kitakyushu University",http://www.kitakyu-u.ac.JPN/
+348,JPN,"Kitami Institute of Technology",http://www.kitami-it.ac.JPN/
+349,JPN,"Kitasato University",http://www.kitasato-u.ac.JPN/
+350,JPN,"Kobe City University of ForeignStudies",http://www.kobe-cufs.ac.JPN/
+351,JPN,"Kobe Design University",http://www.kobe-du.ac.JPN/
+352,JPN,"Kobe Gakuin University",http://www.kobegakuin.ac.JPN/
+353,JPN,"Kobe International University",http://www.kobe-kiu.ac.JPN/
+354,JPN,"Kobe Jogakuin University",http://www.kobe-c.ac.JPN/
+355,JPN,"Kobe Pharmaceutical University",http://www.kobepharma-u.ac.JPN/
+356,JPN,"Kobe Shinwa Women's University",http://www.kobe-shinwa.ac.JPN/
+357,JPN,"Kobe Shoin Women's University",http://www.shoin.ac.JPN/
+358,JPN,"Kobe University",http://www.kobe-u.ac.JPN/
+359,JPN,"Kobe University of Mercantile Marine",http://www.kshosen.ac.JPN/
+360,JPN,"Kobe Women's University",http://www.suma.kobe-wu.ac.JPN/
+361,JPN,"Kochi Medical School",http://www.kochi-ms.ac.JPN/
+362,JPN,"Kochi University",http://www.kochi-u.ac.JPN/
+363,JPN,"Kochi University of Technology",http://www.kochi-tech.ac.JPN/
+364,JPN,"Kochi Women's University",http://www.kochi-wu.ac.JPN/
+365,JPN,"Kogakkan University",http://www.kogakkan-u.ac.JPN/
+366,JPN,"Kogakuin University",http://www.kogakuin.ac.JPN/
+367,JPN,"Koka Women's College",http://www.koka.ac.JPN/
+368,JPN,"Kokugakuin University",http://www.kokugakuin.ac.JPN/
+369,JPN,"Kokushikan University",http://www.kokushikan.ac.JPN/
+370,JPN,"Komazawa University",http://www.komazawa-u.ac.JPN/
+371,JPN,"Konan University",http://www.konan-u.ac.JPN/
+372,JPN,"Konan Women's University",http://www.konan-wu.ac.JPN/
+373,JPN,"Korea University",http://www.korea-u.ac.JPN/
+374,JPN,"Koriyama Women's University and College",http://www.koriyama-kgc.ac.JPN/
+375,JPN,"Koshien University",http://www.koshien.ac.JPN/
+376,JPN,"Koyasan University",http://www.koyasan-u.ac.JPN/
+377,JPN,"Kumamoto Gakuen University",http://www.kumagaku.ac.JPN/
+378,JPN,"Kumamoto Institute of Technology",http://www.knct.ac.JPN/
+379,JPN,"Kumamoto Prefectural University",http://www.pu-kumamoto.ac.JPN/
+380,JPN,"Kumamoto University",http://www.kumamoto-u.ac.JPN/
+381,JPN,"Kunitachi College of Music",http://www.kunitachi.ac.JPN/
+382,JPN,"Kurashiki Sakuyo University",http://www.ksu.ac.JPN/
+383,JPN,"Kurashiki University of Science and the Arts",http://www.kusa.ac.JPN/
+384,JPN,"Kure University",http://www.kure-u.ac.JPN/
+385,JPN,"Kurume Institute of Technology",http://www.kurume-it.ac.JPN/
+386,JPN,"Kurume University",http://www.kurume-u.ac.JPN/
+387,JPN,"Kushiro Public University of Economics",http://www.kushiro-pu.ac.JPN/
+388,JPN,"Kwansei Gakuin University",http://www.kwansei.ac.JPN/
+389,JPN,"Kwassui Women's College",http://www.kwassui.ac.JPN/
+390,JPN,"Kyorin University",http://www.kyorin-u.ac.JPN/
+391,JPN,"Kyoritsu Pharmaceutical University",http://www.kyoritsu-ph.ac.JPN/
+392,JPN,"Kyoritsu Woman's University",http://www.kyoritsu-wu.ac.JPN/
+393,JPN,"Kyoto Bunkyo University",http://www.kbu.ac.JPN/
+394,JPN,"Kyoto City University of Arts",http://www.kcua.ac.JPN/
+395,JPN,"Kyoto Gakuen University",http://www.kyotogakuen-u.ac.JPN/
+396,JPN,"Kyoto Institute of Technology",http://www.kit.ac.JPN/
+397,JPN,"Kyoto Pharmaceutical University",http://www.kyoto-phu.ac.JPN/
+398,JPN,"Kyoto Prefectural University",http://www.kpu.ac.JPN/
+399,JPN,"Kyoto Prefectural University of Medicine",http://www.kpu-m.ac.JPN/
+400,JPN,"Kyoto Sangyo University",http://www.kyoto-su.ac.JPN/
+401,JPN,"Kyoto Seika University",http://www.kyoto-seika.ac.JPN/
+402,JPN,"Kyoto Tachibana Women's University",http://www.tachibana-u.ac.JPN/
+403,JPN,"Kyoto University",http://www.kyoto-u.ac.JPN/
+404,JPN,"Kyoto University of Art and Design",http://www.kyoto-art.ac.JPN/
+405,JPN,"Kyoto University of Education",http://www.kyokyo-u.ac.JPN/
+406,JPN,"Kyoto University of Foreign Studies",http://www.kufs.ac.JPN/
+407,JPN,"Kyoto Women's University",http://www.kyoto-wu.ac.JPN/
+408,JPN,"Kyushu Dental College",http://www.kyu-dent.ac.JPN/
+409,JPN,"Kyushu Institute of Design",http://www.kyushu-id.ac.JPN/
+410,JPN,"Kyushu Institute of Technology",http://www.kyutech.ac.JPN/
+411,JPN,"Kyushu International University",http://www.kiu.ac.JPN/
+412,JPN,"Kyushu Kyoritsu University",http://www.kyukyo-u.ac.JPN/
+413,JPN,"Kyushu Sangyo University",http://www.ip.kyusan-u.ac.JPN/
+414,JPN,"Kyushu Tokai University",http://www.ktokai-u.ac.JPN/
+415,JPN,"Kyushu University",http://www.kyushu-u.ac.JPN/
+416,JPN,"Kyushu University of Nursing and SocialWelfare",http://www.kyushu-ns.ac.JPN/
+417,JPN,"Kyushu Women's University",http://www.kwuc.ac.JPN/
+418,JPN,"Matsumoto Dental University",http://www.mdu.ac.JPN/
+419,JPN,"Matsusaka University",http://www.mie-chukyo-u.ac.JPN/
+420,JPN,"Matsuyama University",http://www.matsuyama-u.ac.JPN/
+421,JPN,"Meiji College of Pharmacy",http://www.my-pharm.ac.JPN/
+422,JPN,"Meiji Gakuin University",http://www.meijigakuin.ac.JPN/
+423,JPN,"Meiji University",http://www.meiji.ac.JPN/
+424,JPN,"Meiji University of Oriental Medicine",http://www.meiji-u.ac.JPN/
+425,JPN,"Meijo University",http://www.meijo-u.ac.JPN/
+426,JPN,"Meikai University",http://www.meikai.ac.JPN/
+427,JPN,"Meio University",http://www.meio-u.ac.JPN/
+428,JPN,"Meisei University",http://www.meisei-u.ac.JPN/
+429,JPN,"Mejiro University",http://www.mejiro.ac.JPN/
+430,JPN,"Mie University",http://www.mie-u.ac.JPN/
+431,JPN,"Mimasaka Women's College",http://www.mimasaka.ac.JPN/
+432,JPN,"Minamikyushu University",http://www.nankyudai.ac.JPN/
+433,JPN,"Miyagi Gakuin Women's College",http://www.mgu.ac.JPN/
+434,JPN,"Miyagi University",http://www.myu.ac.JPN/
+435,JPN,"Miyagi University of Education",http://www.miyakyo-u.ac.JPN/
+436,JPN,"Miyazaki Medical College",http://www.miyazaki-med.ac.JPN/
+437,JPN,"Miyazaki Municipal University",http://www.miyazaki-mu.ac.JPN/
+438,JPN,"Miyazaki Prefectural Nursing University",http://www.mpu.ac.JPN/
+439,JPN,"Miyazaki University",http://www.miyazaki-u.ac.JPN/
+440,JPN,"Morioka College",http://www.morioka-u.ac.JPN/
+441,JPN,"Mukogawa Women's University",http://www.mukogawa-u.ac.JPN/
+442,JPN,"Muroran Institute of Technology",http://www.muroran-it.ac.JPN/
+443,JPN,"Musashi Institute of Technology",http://www.musashi-tech.ac.JPN/
+444,JPN,"Musashino Academy of Music",http://www.musashino-music.ac.JPN/
+445,JPN,"Musashino Art University",http://www.musabi.ac.JPN/
+446,JPN,"Musashino Women's University",http://www.musashino-wu.ac.JPN/
+447,JPN,"Musashi University",http://www.musashi.ac.JPN/
+448,JPN,"Nagano University",http://www.nagano.ac.JPN/
+449,JPN,"Nagaoka University of Technology",http://www.nagaokaut.ac.JPN/
+450,JPN,"Nagasaki Institute of Applied Science",http://www.nias.ac.JPN/
+451,JPN,"Nagasaki Prefectural University",http://www.nagasakipu.ac.JPN/
+452,JPN,"Nagasaki University",http://www.nagasaki-u.ac.JPN/
+453,JPN,"Nagoya City University",http://www.nagoya-cu.ac.JPN/
+454,JPN,"Nagoya College of Music",http://www.doho.ac.JPN/~meion/
+455,JPN,"Nagoya Economics University",http://www.nagoya-ku.ac.JPN/
+456,JPN,"Nagoya Gakuin University",http://www.ngu.ac.JPN/
+457,JPN,"Nagoya Institute of Technology",http://www.nitech.ac.JPN/
+458,JPN,"Nagoya University",http://www.nagoya-u.ac.JPN/
+459,JPN,"Nagoya University of Arts",http://www.nua.ac.JPN/
+460,JPN,"Nagoya University of Commerce and Business Administration",http://www.nucba.ac.JPN/
+461,JPN,"Nagoya University of Foreign Studies",http://www.nufs.nakanishi.ac.JPN/
+462,JPN,"Nagoya Women's University",http://www.nagoya-wu.ac.JPN/
+463,JPN,"Nakamura Gakuen University",http://www.nakamura-u.ac.JPN/
+464,JPN,"Nanzan University",http://www.nanzan-u.ac.JPN/
+465,JPN,"Nara Medical University",http://www.naramed-u.ac.JPN/
+466,JPN,"Nara Sangyo University",http://www.nara-su.ac.JPN/
+467,JPN,"Nara University",http://www.nara-u.ac.JPN/
+468,JPN,"Nara University of Commerce",http://www.narauc.ac.JPN/
+469,JPN,"Nara University of Education",http://www.nara-edu.ac.JPN/
+470,JPN,"Nara Women's University",http://www.nara-wu.ac.JPN/
+471,JPN,"Naruto University of Education",http://www.naruto-u.ac.JPN/
+472,JPN,"National Defence Medical College",http://www.ndmc.ac.JPN/
+473,JPN,"National Fisheries University",http://www.fish-u.ac.JPN/
+474,JPN,"National Institute of Fitness and Sports Kanoya",http://www.nifs-k.ac.JPN/
+475,JPN,"Nihon Fukushi University",http://www.n-fukushi.ac.JPN/
+476,JPN,"Nihon University",http://www.nihon-u.ac.JPN/
+477,JPN,"Niigata College of Pharmacy",http://www.niigata-pharm.ac.JPN/
+478,JPN,"Niigata Sangyo University",http://www.nsu.ac.JPN/
+479,JPN,"Niigata University",http://www.niigata-u.ac.JPN/
+480,JPN,"Niigata University of International and Information Studies",http://www.nuis.ac.JPN/
+481,JPN,"Niigata University of Management",http://www.niigataum.ac.JPN/
+482,JPN,"Nippon Bunri University",http://www.nbu.ac.JPN/
+483,JPN,"Nippon Dental University",http://www.ndu.ac.JPN/
+484,JPN,"Nippon Institute of Technology",http://www.nit.ac.JPN/
+485,JPN,"Nippon Medical School",http://www.nms.ac.JPN/
+486,JPN,"Nippon Sport Science University",http://www.nittai.ac.JPN/
+487,JPN,"Nippon Veterinary and Animalscience University",http://www.nvau.ac.JPN/
+488,JPN,"Nishikyushu University",http://www.nisikyu-u.ac.JPN/
+489,JPN,"Nishinippon Institute of Technology",http://www.nishitech.ac.JPN/
+490,JPN,"Nisho Gakusha University",http://www.nishogakusha-u.ac.JPN/
+491,JPN,"Nortre Dame Seishin University",http://www.ndsu.ac.JPN/
+492,JPN,"Notre Dame Women's College",http://www.notredame.ac.JPN/
+493,JPN,"Obihiro University of Agriculture and Veterinary Medicine",http://www.obihiro.ac.JPN/
+494,JPN,"Obirin University",http://www.obirin.ac.JPN/
+495,JPN,"Ochanomizu Women's University",http://www.ocha.ac.JPN/
+496,JPN,"Ohka Gakuen University",http://www.ohkagakuen-u.ac.JPN/
+497,JPN,"Ohtani Women's University",http://www.ohtani-w.ac.JPN/
+498,JPN,"Ohu University",http://www.ohu-u.ac.JPN/
+499,JPN,"Oita Medical University",http://www.oita-med.ac.JPN/
+500,JPN,"Oita University",http://www.oita-u.ac.JPN/
+501,JPN,"Oita University of Nursing and Health Sciences",http://www.oita-nhs.ac.JPN/
+502,JPN,"Okayama Prefectural University",http://www.oka-pu.ac.JPN/
+503,JPN,"Okayama Shoka University",http://www.osu.ac.JPN/
+504,JPN,"Okayama University",http://www.okayama-u.ac.JPN/
+505,JPN,"Okayama University of Science",http://www.ous.ac.JPN/
+506,JPN,"Okinawa International University",http://www.okiu.ac.JPN/
+507,JPN,"Okinawa Prefectural University of Fine Arts",http://www.okigei.ac.JPN/
+508,JPN,"Okinawa University",http://www.okinawa-u.ac.JPN/
+509,JPN,"Osaka City University",http://www.osaka-cu.ac.JPN/
+510,JPN,"Osaka College of Music",http://www.daion.ac.JPN/
+511,JPN,"Osaka Dental University",http://www.osaka-dent.ac.JPN/
+512,JPN,"Osaka Electro-Communication University",http://www.osakac.ac.JPN/
+513,JPN,"Osaka Gakuin University",http://www.osaka-gu.ac.JPN/
+514,JPN,"Osaka Institute of Technology",http://www.oit.ac.JPN/
+515,JPN,"Osaka International University",http://www.oiu.oiu.ac.JPN/
+516,JPN,"Osaka International University for Women",http://www.oiuw.oiu.ac.JPN/
+517,JPN,"Osaka Medical College",http://www.osaka-med.ac.JPN/
+518,JPN,"Osaka Prefectural University",http://www.osakafu-u.ac.JPN/
+519,JPN,"Osaka Sangyo University",http://www.osaka-sandai.ac.JPN/
+520,JPN,"Osaka Shoin Women's College",http://www.osaka-shoin.ac.JPN/
+521,JPN,"Osaka University",http://www.osaka-u.ac.JPN/
+522,JPN,"Osaka University of Arts",http://www.osaka-geidai.ac.JPN/
+523,JPN,"Osaka University of Commerce",http://www.daishodai.ac.JPN/
+524,JPN,"Osaka University of Economics",http://www.osaka-ue.ac.JPN/
+525,JPN,"Osaka University of Economics & Law",http://www.keiho-u.ac.JPN/
+526,JPN,"Osaka University of Education",http://www.osaka-kyoiku.ac.JPN/
+527,JPN,"Osaka University of Foreign Studies",http://www.osaka-gaidai.ac.JPN/
+528,JPN,"Osaka University of Health and Sport Sciences",http://www.ouhs.ac.JPN/
+529,JPN,"Osaka University of Pharmaceutical Sciences",http://www.oups.ac.JPN/
+530,JPN,"Osaka Women's University",http://www.osaka-wu.ac.JPN/
+531,JPN,"Otani University",http://www.otani.ac.JPN/
+532,JPN,"Otaru University of Commerce",http://www.otaru-uc.ac.JPN/
+533,JPN,"Otemae University",http://www.otemae.ac.JPN/
+534,JPN,"Otemon Gakuin University",http://www.otemon.ac.JPN/
+535,JPN,"Otsuma Women's University",http://www.otsuma.ac.JPN/
+536,JPN,"Polytechnic University",http://www.uitec.ac.JPN/
+537,JPN,"Poole Gakuin University",http://www.poole.ac.JPN/
+538,JPN,"Rakuno Gakuen University",http://www.rakuno.ac.JPN/
+539,JPN,"Reitaku University",http://www.reitaku-u.ac.JPN/
+540,JPN,"Rikkyo University (St. Paul's University)",http://www.rikkyo.ac.JPN/
+541,JPN,"Rissho University",http://www.ris.ac.JPN/
+542,JPN,"Ritsumeikan Asia Pacific University",http://www.apu.ac.JPN/
+543,JPN,"Ritsumeikan University",http://www.ritsumei.ac.JPN/
+544,JPN,"Ryukoku University",http://www.ryukoku.ac.JPN/
+545,JPN,"Ryutsu Keizai University",http://www.rku.ac.JPN/
+546,JPN,"Saga Medical School",http://www.saga-med.ac.JPN/
+547,JPN,"Sagami Women's University",http://www.sagami-wu.ac.JPN/
+548,JPN,"Saga University",http://www.saga-u.ac.JPN/
+549,JPN,"Saitama Institute of Technology",http://www.sit.ac.JPN/
+550,JPN,"Saitama Medical School",http://www.saitama-med.ac.JPN/
+551,JPN,"Saitama Prefectural University",http://www.spu.ac.JPN/
+552,JPN,"Saitama University",http://www.saitama-u.ac.JPN/
+553,JPN,"Sakushin Gakuin University",http://www.sakushin-u.ac.JPN/
+554,JPN,"Sankei University",http://www.miyasankei-u.ac.JPN/
+555,JPN,"Sanno University",http://www.sanno.ac.JPN/
+556,JPN,"Sanyo Gakuen University",http://www.sguc.ac.JPN/
+557,JPN,"Sapporo Gakuin University",http://www.sgu.ac.JPN/
+558,JPN,"Sapporo International University",http://www.siu.ac.JPN/
+559,JPN,"Sapporo Medical University",http://www.sapmed.ac.JPN/
+560,JPN,"Sapporo University",http://www.sapporo-u.ac.JPN/
+561,JPN,"Science University of Tokyo",http://www.sut.ac.JPN/
+562,JPN,"Science University of Tokyo in Yamaguchi",http://www.yama.sut.ac.JPN/
+563,JPN,"Seian University of Art & Design",http://www.seian.ac.JPN/
+564,JPN,"Seigakuin University",http://www.seigakuin-univ.ac.JPN/
+565,JPN,"Seijo University",http://www.seijo.ac.JPN/
+566,JPN,"Seikei University",http://www.seikei.ac.JPN/
+567,JPN,"Seinan Gakuin University",http://www.seinan-gu.ac.JPN/
+568,JPN,"Seisen University",http://www.seisen-u.ac.JPN/
+569,JPN,"Seiwa College",http://www.seiwa-u.ac.JPN/
+570,JPN,"Sendai University",http://www.sendaidaigaku.JPN/
+571,JPN,"Senshu University",http://www.senshu-u.ac.JPN/
+572,JPN,"Senzoku Gakuen College",http://www.senzoku.ac.JPN/
+573,JPN,"Setsunan University",http://www.setsunan.ac.JPN/
+574,JPN,"Shibaura Institute of Technology",http://www.shibaura-it.ac.JPN/
+575,JPN,"Shiga University",http://www.shiga-u.ac.JPN/
+576,JPN,"Shiga University of Medical Science",http://www.shiga-med.ac.JPN/
+577,JPN,"Shikoku Christian College",http://www.sg-u.ac.JPN/
+578,JPN,"Shikoku University",http://www.shikoku-u.ac.JPN/
+579,JPN,"Shimane University",http://www.shimane-u.ac.JPN/
+580,JPN,"Shimane University, Faculty of Medicine",http://www.shimane-med.ac.JPN/
+581,JPN,"Shimonoseki City University",http://www.shimonoseki-cu.ac.JPN/
+582,JPN,"Shinshu University",http://www.shinshu-u.ac.JPN/
+583,JPN,"Shirayuri Women's College",http://www.shirayuri.ac.JPN/
+584,JPN,"Shizuoka Prefectural University",http://www.u-shizuoka-ken.ac.JPN/
+585,JPN,"Shizuoka Sangyo University",http://www.ssu.ac.JPN/
+586,JPN,"Shizuoka University",http://www.shizuoka.ac.JPN/
+587,JPN,"Shokei College",http://www.shokei-gakuen.ac.JPN/shokeicol/
+588,JPN,"Shonan Institute of Technology",http://www.shonan-it.ac.JPN/
+589,JPN,"Showa College of Pharmaceutical Sciences",http://www.shoyaku.ac.JPN/
+590,JPN,"Showa University",http://www.showa-u.ac.JPN/
+591,JPN,"Showa Women's University",http://www.swu.ac.JPN/
+592,JPN,"Shuchiin College",http://www.shuchiin.ac.JPN/
+593,JPN,"Shujitsu Women's University",http://www.shujitsu.ac.JPN/
+594,JPN,"Shukutoku University",http://www.shukutoku.ac.JPN/
+595,JPN,"Shumei University",http://www.shumei-u.ac.JPN/
+596,JPN,"Siebold University of Nagasaki",http://www.sun.ac.JPN/
+597,JPN,"Soai University",http://www.soai.ac.JPN/
+598,JPN,"Soka University",http://www.soka.ac.JPN/
+599,JPN,"Sonoda Women's University",http://www.sonoda-u.ac.JPN/
+600,JPN,"Sophia University",http://www.sophia.ac.JPN/
+601,JPN,"St. Andrew's University",http://www.andrew.ac.JPN/
+602,JPN,"St. Luke' s College of Nursing",http://www.slcn.ac.JPN/
+603,JPN,"St. Marianna University School of Medicine",http://www.marianna-u.ac.JPN/
+604,JPN,"Sugino Women's College",http://www.sugino.ac.JPN/daiindex.html
+605,JPN,"Sugiyama Jogakuen University",http://www.sugiyama-u.ac.JPN/
+606,JPN,"Surugadai University",http://www.surugadai.ac.JPN/
+607,JPN,"Suzuka International University",http://www.suzuka-iu.ac.JPN/
+608,JPN,"Suzuka University of Medical Science",http://www.suzuka-u.ac.JPN/
+609,JPN,"Taisho University",http://www.tais.ac.JPN/
+610,JPN,"Takachiho University",http://www.takachiho.ac.JPN/
+611,JPN,"Takamatsu University",http://www.takamatsu-u.ac.JPN/
+612,JPN,"Takarazuka University of Art and Design",http://www.takara-univ.ac.JPN/
+613,JPN,"Takasaki City University of Economics",http://www.tcue.ac.JPN/
+614,JPN,"Takushoku University",http://www.takushoku-u.ac.JPN/
+615,JPN,"Tama Art University",http://www.tamabi.ac.JPN/
+616,JPN,"Tamagawa University",http://www.tamagawa.ac.JPN/
+617,JPN,"Tama Institute of Management and Information Sciences",http://www.timis.ac.JPN/
+618,JPN,"Teikyo Heisei University",http://www.teikyo-u.ac.JPN/
+619,JPN,"Teikyo University of Science and Technology",http://www.ntu.ac.JPN/
+620,JPN,"Temple University Japan",http://www.tuj.ac.JPN/
+621,JPN,"Tenri University",http://www.tenri-u.ac.JPN/
+622,JPN,"Tezukayama Gakuin University",http://www.tezuka-gu.ac.JPN/
+623,JPN,"Tezukayama University",http://www.tezukayama-u.ac.JPN/
+624,JPN,"Toho College of Music",http://www.toho-music.ac.JPN/
+625,JPN,"Toho Gakuen School of Music",http://www.tohomusic.ac.JPN/
+626,JPN,"Tohoku Bunka Gakuen University",http://www.tbgu.ac.JPN/
+627,JPN,"Tohoku College of Pharmacy",http://www.tohoku-pharm.ac.JPN/
+628,JPN,"Tohoku Fukushi University",http://www.tfu.ac.JPN/
+629,JPN,"Tohoku Gakuin University",http://www.tohoku-gakuin.ac.JPN/
+630,JPN,"Tohoku Institute of Technology",http://www.tohtech.ac.JPN
+631,JPN,"Tohoku University",http://www.tohoku.ac.JPN/
+632,JPN,"Tohoku University of Art and Design",http://www.tuad.ac.JPN/
+633,JPN,"Tohoku Women's College",http://www.tojo.ac.JPN/
+634,JPN,"Toho University",http://www.toho-u.ac.JPN/
+635,JPN,"Tohwa University",http://www.tohwa-u.ac.JPN/
+636,JPN,"Toin University of Yokohama",http://www.toin.ac.JPN/
+637,JPN,"Tokai Gakuen University",http://www.tokaigakuen-u.ac.JPN/
+638,JPN,"Tokai University",http://www.u-tokai.ac.JPN/
+639,JPN,"Tokai University Educational System",http://www.tokai.ac.JPN/
+640,JPN,"Tokai Women's College",http://www.tokaijoshi-u.ac.JPN/
+641,JPN,"Tokiwa University",http://www.tokiwa.ac.JPN/
+642,JPN,"Tokoha Gakuen University",http://www.tokoha-u.ac.JPN/
+643,JPN,"Tokushima Bunri University",http://www.bunri-u.ac.JPN/
+644,JPN,"Tokushima University",http://www.tokushima-u.ac.JPN/
+645,JPN,"Tokuyama University",http://www.tokuyama-u.ac.JPN/
+646,JPN,"Tokyo College of Music",http://www.tokyo-ondai.ac.JPN/
+647,JPN,"Tokyo Denki University",http://www.dendai.ac.JPN/
+648,JPN,"Tokyo Dental College",http://www.tdc.ac.JPN/
+649,JPN,"Tokyo Engineering University",http://www.teu.ac.JPN/
+650,JPN,"Tokyo Gakugei University",http://www.u-gakugei.ac.JPN/
+651,JPN,"Tokyo Institute of Polytechnics",http://www.t-kougei.ac.JPN/
+652,JPN,"Tokyo Institute of Technology",http://www.titech.ac.JPN/
+653,JPN,"Tokyo International University",http://www.tiu.ac.JPN/
+654,JPN,"Tokyo Kasei University",http://www.tokyo-kasei.ac.JPN/
+655,JPN,"Tokyo Keizai University",http://www.tku.ac.JPN/
+656,JPN,"Tokyo Medical and Dental University",http://www.tmd.ac.JPN/
+657,JPN,"Tokyo Medical College",http://www.tokyo-med.ac.JPN/
+658,JPN,"Tokyo Metropolitan Institute of Technology",http://www.tmit.ac.JPN/
+659,JPN,"Tokyo Metropolitan University",http://www.metro-u.ac.JPN/
+660,JPN,"Tokyo Metropolitan University of Health Sciences",http://www.metro-hs.ac.JPN/
+661,JPN,"Tokyo National University of Fine Arts and Music",http://www.geidai.ac.JPN/
+662,JPN,"Tokyo University",http://www.u-tokyo.ac.JPN/
+663,JPN,"Tokyo University of Agriculture",http://www.nodai.ac.JPN/
+664,JPN,"Tokyo University of Agriculture and Technology",http://www.tuat.ac.JPN/
+665,JPN,"Tokyo University of Art and Design",http://www.zokei.ac.JPN/
+666,JPN,"Tokyo University of Fisheries",http://www.tokyo-u-fish.ac.JPN/
+667,JPN,"Tokyo University of Foreign Studies",http://www.tufs.ac.JPN/
+668,JPN,"Tokyo University of Information Sciences",http://www.tuis.ac.JPN/
+669,JPN,"Tokyo University of Mercantile Marine",http://www.tosho-u.ac.JPN/
+670,JPN,"Tokyo University of Pharmacy and Life Science",http://www.toyaku.ac.JPN/
+671,JPN,"Tokyo Woman's Christian University",http://www.twcu.ac.JPN/
+672,JPN,"Tokyo Women's College of Physical Education",http://www.twcpe.ac.JPN/
+673,JPN,"Tokyo Women's Medial College",http://www.twmu.ac.JPN/
+674,JPN,"Tomakomai Komazawa University",http://www.t-komazawa.ac.JPN/
+675,JPN,"Tottori University",http://www.tottori-u.ac.JPN/
+676,JPN,"Tottori University of Environmental Studies",http://www.kankyo-u.ac.JPN/
+677,JPN,"Toyama Medical and Pharmaceutical University",http://www.toyama-mpu.ac.JPN/
+678,JPN,"Toyama Prefectural University",http://www.pu-toyama.ac.JPN/
+679,JPN,"Toyama University",http://www.toyama-u.ac.JPN/
+680,JPN,"Toyama University of International Studies",http://www.tuins.ac.JPN/
+681,JPN,"Toyo Eiwa Women's University",http://www.toyoeiwa.ac.JPN/
+682,JPN,"Toyo Gakuen University",http://www.toyogakuen-u.ac.JPN/
+683,JPN,"Toyohashi University of Technology",http://www.tut.ac.JPN/
+684,JPN,"Toyota Technological Institute",http://www.toyota-ti.ac.JPN/
+685,JPN,"Toyo University",http://www.toyo.ac.JPN/
+686,JPN,"Tsuda College",http://www.tsuda.ac.JPN/
+687,JPN,"Tsukuba University",http://www.tsukuba.ac.JPN/
+688,JPN,"Tsurumi University",http://www.tsurumi-u.ac.JPN/
+689,JPN,"Tsuru University",http://www.tsuru.ac.JPN/
+690,JPN,"Ueno Gakuen College",http://www.uenogakuen.ac.JPN/
+691,JPN,"United Nations University",http://www.unu.edu/
+692,JPN,"University of Aizu",http://www.u-aizu.ac.JPN/
+693,JPN,"University of Bunkyo",http://www.u-bunkyo.ac.JPN/
+694,JPN,"University of East Asia",http://www.toua-u.ac.JPN/
+695,JPN,"University of Electro-Communications",http://www.uec.ac.JPN/
+696,JPN,"University of Marketing and Distribution Sciences",http://www.umds.ac.JPN/
+697,JPN,"University of Occupational and Environmental Health, Japan",http://www.uoeh-u.ac.JPN/
+698,JPN,"University of Shiga Prefecture",http://www.usp.ac.JPN/
+699,JPN,"University of the Air",http://www.u-air.ac.JPN/
+700,JPN,"University of the Ryukyus",http://www.u-ryukyu.ac.JPN/
+701,JPN,"University of the Sacred Heart Tokyo",http://www.u-sacred-heart.ac.JPN/
+702,JPN,"Utsunomiya University",http://www.utsunomiya-u.ac.JPN/
+703,JPN,"Wakayama Medical College",http://www.wakayama-med.ac.JPN/
+704,JPN,"Wakayama University",http://www.wakayama-u.ac.JPN/
+705,JPN,"Wakkanai Hokusei Gakuen University",http://www.wakhok.ac.JPN/
+706,JPN,"Wako University",http://www.wako.ac.JPN/
+707,JPN,"Waseda University",http://www.waseda.ac.JPN/
+708,JPN,"Wayo Women's University",http://www.wayo.ac.JPN/
+709,JPN,"Women's College of Fine Arts",http://www.joshibi.ac.JPN/
+710,JPN,"Yamagata University",http://www.yamagata-u.ac.JPN/
+711,JPN,"Yamaguchi Prefectural University",http://www.yamaguchi-pu.ac.JPN/
+712,JPN,"Yamaguchi University",http://www.yamaguchi-u.ac.JPN/
+713,JPN,"Yamanashi Gakuin University",http://www.ygu.ac.JPN/
+714,JPN,"Yamanashi Medical University",http://www.yamanashi-med.ac.JPN/
+715,JPN,"Yamanashi University",http://www.yamanashi.ac.JPN/
+716,JPN,"Yasuda Women's University",http://www.yasuda-u.ac.JPN/
+717,JPN,"Yokkaichi University",http://www.yokkaichi-u.ac.JPN/
+718,JPN,"Yokohama City University",http://www.yokohama-cu.ac.JPN/
+719,JPN,"Yokohama College of Commerce",http://www.shodai.ac.JPN/
+720,JPN,"Yokohama National University",http://www.ynu.ac.JPN/
+721,JPN,"Aichi Gakuin University",http://www.aichi-gakuin.ac.JPN/
+722,JPN,"Aichi Gakusen University",http://www.gakusen.ac.JPN/
+723,JPN,"Aichi Institute of Technology",http://www.aitech.ac.JPN/
+724,JPN,"Aichi Medical University",http://www.aichi-med-u.ac.JPN/
+725,JPN,"Aichi Prefectural University",http://www.aichi-pu.ac.JPN/
+726,JPN,"Aichi Prefectural University of Fine Arts & Music",http://www.aichi-fam-u.ac.JPN/
+727,JPN,"Aichi Sangyo University",http://www.asu.ac.JPN/
+728,JPN,"Aichi Shukutoku University",http://www.aasa.ac.JPN/
+729,JPN,"Aichi University",http://www.aichi-u.ac.JPN/
+730,JPN,"Aichi University of Education",http://www.aichi-edu.ac.JPN/
+731,JPN,"Aikoku Gakuen University",http://www.aikoku-u.ac.JPN/
+732,JPN,"Akita University",http://www.akita-u.ac.JPN/
+733,JPN,"Akita University of Economics and Law",http://www.akeihou-u.ac.JPN/
+734,JPN,"American University Extension, Okinawa",http://www.aue-okinawa.ac.JPN/
+735,JPN,"Aomori Chuoh Gakuin University",http://www.aomoricgu.ac.JPN/
+736,JPN,"Aomori Public College",http://www.nebuta.ac.JPN/
+737,JPN,"Aomori University",http://www.aomori-u.ac.JPN/
+738,JPN,"Aomori University of Health and Welfare",http://www.auhw.ac.JPN/
+739,JPN,"Aoyama Gakuin University",http://www.aoyama.ac.JPN/
+740,JPN,"Asahikawa Medical College",http://www.asahikawa-med.ac.JPN/
+741,JPN,"Asahikawa University",http://www.asahikawa-u.ac.JPN/
+742,JPN,"Asahi University",http://www.asahi-u.ac.JPN/
+743,JPN,"Ashikaga Institute of Technology",http://www.ashitech.ac.JPN/
+744,JPN,"Ashiya University",http://www.ashiya-u.ac.JPN/
+745,JPN,"Asia University",http://www.asia-u.ac.JPN/
+746,JPN,"Atomi College",http://www.atomi.ac.JPN/
+747,JPN,"Azabu University",http://www.azabu-u.ac.JPN/
+748,JPN,"Baika Women's College",http://www.baika.ac.JPN/
+749,JPN,"Baiko Women's College",http://www.baiko.ac.JPN/
+750,JPN,"Beppu University",http://www.beppu-u.ac.JPN/
+751,JPN,"Bukkyo University",http://www.bukkyo-u.ac.JPN/
+752,JPN,"Bunka Women's University",http://www.bunka-wu.ac.JPN/
+753,JPN,"Bunkyo University",http://www.bunkyo.ac.JPN/
+754,JPN,"Chiba Institute of Technology",http://www.it-chiba.ac.JPN/
+755,JPN,"Chiba Keizai University",http://www.cku.ac.JPN/
+756,JPN,"Chiba University",http://www.chiba-u.ac.JPN/
+757,JPN,"Chiba University of Commerce",http://www.cuc.ac.JPN/
+758,JPN,"Chikushi Jogakuen University",http://www.chikushi.ac.JPN/
+759,JPN,"Chubu Gakuin University & Chubu Women's College",http://www.chubu-gu.ac.JPN/
+760,JPN,"Chubu University",http://www.chubu.ac.JPN/
+761,JPN,"Chukyo Gakuin University",http://www.chukyogakuin-u.ac.JPN/
+762,JPN,"Chukyo University",http://www.chukyo-u.ac.JPN/
+763,JPN,"Chukyo Women's University",http://www.chujo-u.ac.JPN/
+764,JPN,"Chuo Gakuin University",http://www.cgu.ac.JPN/
+765,JPN,"Chuo University",http://www.chuo-u.ac.JPN/
+766,JPN,"Daido Institute of Technology",http://www.daido-it.ac.JPN/
+767,JPN,"Daiichi College of Pharmaceutical Sciences",http://www.daiichi-cps.ac.JPN/
+768,JPN,"Dai Ichi University, College of Technology",http://www.daiichi-koudai.ac.JPN/
+769,JPN,"Daiichi University of Economics",http://www.daiichi-ue.ac.JPN/
+770,JPN,"Daito Bunka University",http://www.daito.ac.JPN/
+771,JPN,"Doho University",http://www.doho.ac.JPN/
+772,JPN,"Dohto University",http://www.dohto.ac.JPN/
+773,JPN,"Dokkyo University",http://www.dokkyo.ac.JPN/
+774,JPN,"Dokkyo University School of Medicine",http://www.dokkyomed.ac.JPN/
+775,JPN,"Doshisha University",http://www.doshisha.ac.JPN/
+776,JPN,"Doshisha Women's College of Liberal Arts",http://www.dwc.doshisha.ac.JPN/
+777,JPN,"Edogawa University",http://www.edogawa-u.ac.JPN/
+778,JPN,"Ehime University",http://www.ehime-u.ac.JPN/
+779,JPN,"Eichi University",http://www.eichi-u.ac.JPN/
+780,JPN,"Elisabeth University of Music",http://www.eum.ac.JPN/
+781,JPN,"Ferris University",http://www.ferris.ac.JPN/
+782,JPN,"Fujita Health University",http://www.fujita-hu.ac.JPN/
+783,JPN,"Fuji University",http://www.termnet.co.JPN/fujidai/
+784,JPN,"Fuji Women's College",http://www.fujijoshi.ac.JPN/
+785,JPN,"Fukui Medical School",http://www.fukui-med.ac.JPN/
+786,JPN,"Fukui Prefectural University",http://www.fpu.ac.JPN/
+787,JPN,"Fukui University",http://www.fukui-u.ac.JPN/
+788,JPN,"Fukui University of Technology",http://www.fukui-ut.ac.JPN/
+789,JPN,"Fukuoka Dental College",http://www.fdcnet.ac.JPN/
+790,JPN,"Fukuoka Institute of Technology",http://www.fit.ac.JPN/
+791,JPN,"Fukuoka International University",http://www.fukuoka-int-u.ac.JPN/
+792,JPN,"Fukuoka Prefectural University",http://www.fukuoka-pu.ac.JPN/
+793,JPN,"Fukuoka University",http://www.fukuoka-u.ac.JPN/
+794,JPN,"Fukuoka University of Education",http://www.fukuoka-edu.ac.JPN/
+795,JPN,"Fukuoka Women's University",http://www.fwu.ac.JPN/
+796,JPN,"Fukushima Medical College",http://www.fmu.ac.JPN/
+797,JPN,"Fukushima University",http://www.fukushima-u.ac.JPN/
+798,JPN,"Fukuyama Heisei University",http://www.heisei-u.ac.JPN/
+799,JPN,"Fukuyama University",http://www.fukuyama-u.ac.JPN/
+800,JPN,"Gakushuin University",http://www.gakushuin.ac.JPN/
+801,JPN,"Gifu Keizai University",http://www.gifu-keizai.ac.JPN/
+802,JPN,"Gifu Pharmaceutical University",http://www.gifu-pu.ac.JPN/
+803,JPN,"Gifu Shotoku Gakuen University",http://www.shotoku.ac.JPN/
+804,JPN,"Gifu University",http://www.gifu-u.ac.JPN/
+805,JPN,"Gifu University for Education and Languages",http://www.gifu-kyoiku.ac.JPN/
+806,JPN,"Gifu Women's University",http://www.gijodai.ac.JPN/
+807,JPN,"Graduate University for Advanced Studies",http://www.soken.ac.JPN/
+808,JPN,"Gunma Prefectural Women's University",http://www.gpwu.ac.JPN/
+809,JPN,"Gunma University",http://www.gunma-u.ac.JPN/
+810,JPN,"Hachinohe Institute of Technology",http://www.hi-tech.ac.JPN/
+811,JPN,"Hachinohe University",http://www.hachinohe-u.ac.JPN/
+812,JPN,"Hakodate University",http://www.hakodate-u.ac.JPN/
+813,JPN,"Hakuoh University",http://www.hakuoh.ac.JPN/
+814,JPN,"Hamamatsu University",http://www.hamamatsu-u.ac.JPN/
+815,JPN,"Hamamatsu University School of Medicine",http://www.hama-med.ac.JPN/
+816,JPN,"Hanazono University",http://www.hanazono.ac.JPN/
+817,JPN,"Hannan University",http://www.hannan-u.ac.JPN/
+818,JPN,"Heisei International University",http://www.hiu.ac.JPN/
+819,JPN,"Higashi Nippon International University",http://www.tonichi-kokusai-u.ac.JPN/
+820,JPN,"Hijiyama University",http://www.hijiyama-u.ac.JPN/
+821,JPN,"Himeji Dokkyo University",http://www.himeji-du.ac.JPN/
+822,JPN,"Himeji Institute of Technology",http://www.himeji-tech.ac.JPN/
+823,JPN,"Hirosaki Gakuin University",http://www.hirogaku-u.ac.JPN/
+824,JPN,"Hirosaki University",http://www.hirosaki-u.ac.JPN/
+825,JPN,"Hiroshima Bunkyo Women's University",http://www.h-bunkyo.ac.JPN/
+826,JPN,"Hiroshima City University",http://www.hiroshima-cu.ac.JPN/
+827,JPN,"Hiroshima Institute of Technology",http://www.it-hiroshima.ac.JPN/
+828,JPN,"Hiroshima International University",http://www.hirokoku-u.ac.JPN/
+829,JPN,"Hiroshima Jogakuin University",http://www.hju.ac.JPN/
+830,JPN,"Hiroshima Kokusai Gakuin University",http://www.hkg.ac.JPN/
+831,JPN,"Hiroshima Prefectural University",http://www.hiroshima-pu.ac.JPN/
+832,JPN,"Hiroshima Shudo University",http://www.shudo-u.ac.JPN/
+833,JPN,"Hiroshima University",http://www.hiroshima-u.ac.JPN/
+834,JPN,"Hiroshima University of Economics",http://www.hue.ac.JPN/
+835,JPN,"Hiroshima Women's University",http://www.hirojo-u.ac.JPN/
+836,JPN,"Hitotsubashi University",http://www.hit-u.ac.JPN/
+837,JPN,"Hokkaido Information University",http://www.do-johodai.ac.JPN/
+838,JPN,"Hokkaido Institute of Pharmaceutical Sciences",http://www.hokuyakudai.ac.JPN/
+839,JPN,"Hokkaido Institute of Technology",http://www.hit.ac.JPN/
+840,JPN,"Hokkaido Tokai University",http://www.u-tokai.ac.JPN/
+841,JPN,"Hokkaido University",http://www.hokudai.ac.JPN/
+842,JPN,"Hokkaido University of Education",http://www.hokkyodai.ac.JPN/
+843,JPN,"Hokkaido University of Health Sciences",http://www.hoku-iryo-u.ac.JPN/
+844,JPN,"Hokkaigakuen University",http://www.hokkai-s-u.ac.JPN/
+845,JPN,"Hokkaigakuen University of Kitami",http://www.hokkai-k-u.ac.JPN/
+846,JPN,"Hokuriku University",http://www.hokuriku-u.ac.JPN/
+847,JPN,"Hokusei Gakuen University",http://www.hokusei.ac.JPN/
+848,JPN,"Hosei University",http://www.hosei.ac.JPN/
+849,JPN,"Hoshi University",http://www.hoshi.ac.JPN/
+850,JPN,"Hyogo College of Medicine",http://www.hyo-med.ac.JPN/
+851,JPN,"Hyogo University",http://www.hyogo-dai.ac.JPN/
+852,JPN,"Hyogo University of Education",http://www.hyogo-u.ac.JPN/
+853,JPN,"Ibaraki Christian College",http://www.icc.ac.JPN/
+854,JPN,"Ibaraki Prefectural University of Health Sciences",http://www.ipu.ac.JPN/
+855,JPN,"Ibaraki University",http://www.ibaraki.ac.JPN/
+856,JPN,"International Buddhist University",http://www.shitennoji.ac.JPN/
+857,JPN,"International Budo University",http://www.budo-u.ac.JPN/
+858,JPN,"International Christian University",http://www.icu.ac.JPN/
+859,JPN,"International University of Health and Welfare",http://www.iuhw.ac.JPN/
+860,JPN,"International University of Japan",http://www.iuj.ac.JPN/
+861,JPN,"International University of Kagoshima",http://www.iuk.ac.JPN/
+862,JPN,"Ishinomaki Senshu University",http://www.isenshu-u.ac.JPN/
+863,JPN,"Iwaki Meisei University",http://www.iwakimu.ac.JPN/
+864,JPN,"Iwate Medical University",http://www.iwate-med.ac.JPN/
+865,JPN,"Iwate Prefectural University",http://www.iwate-pu.ac.JPN/
+866,JPN,"Iwate University",http://www.iwate-u.ac.JPN/
+867,JPN,"Japan Advanced Institute of Science and Technology",http://www.jaist.ac.JPN/
+868,JPN,"Japan College of Social Work",http://www.shakaijigyo.ac.JPN/
+869,JPN,"Japanese Red Cross College of Nursing",http://www.redcross.ac.JPN/
+870,JPN,"Japan Women's University",http://www.jwu.ac.JPN/
+871,JPN,"Jichi Medical School",http://www.jichi.ac.JPN/
+872,JPN,"Jikei University School of Medicine",http://www.jikei.ac.JPN/
+873,JPN,"Jissen Women's University",http://www.jissen.ac.JPN/
+874,JPN,"Jobu University",http://www.jobu.ac.JPN/
+875,JPN,"Joetsu University of Education",http://www.juen.ac.JPN/
+876,JPN,"Josai International University",http://www.jiu.ac.JPN/
+877,JPN,"Josai University",http://www.josai.ac.JPN/
+878,JPN,"Juntendo University",http://www.juntendo.ac.JPN/
+879,JPN,"Kagawa Institute of Nutrition",http://www.eiyo.ac.JPN/
+880,JPN,"Kagawa Medical School",http://www.kms.ac.JPN/
+881,JPN,"Kagawa University",http://www.kagawa-u.ac.JPN/
+882,JPN,"Kagoshima Immaculate Heart University",http://www.juntan.k-junshin.ac.JPN/jundai/
+883,JPN,"Kagoshima University",http://www.kagoshima-u.ac.JPN/
+884,JPN,"Kagoshima Women's College",http://www.kwc-u.ac.JPN/
+885,JPN,"Kamakura Women's College",http://www.kamakura-u.ac.JPN/
+886,JPN,"Kanagawa Dental College",http://www.kdcnet.ac.JPN/
+887,JPN,"Kanagawa Institute of Technology",http://www.kanagawa-it.ac.JPN/
+888,JPN,"Kanagawa University",http://www.kanagawa-u.ac.JPN/
+889,JPN,"Kanazawa College of Art",http://www.kanazawa-bidai.ac.JPN/
+890,JPN,"Kanazawa College of Economics",http://www.kanazawa-eco.ac.JPN/
+891,JPN,"Kanazawa Gakuin University",http://www.kanazawa-gu.ac.JPN/
+892,JPN,"Kanazawa Institute of Technology",http://www.kanazawa-it.ac.JPN/
+893,JPN,"Kanazawa Medical University",http://www.kanazawa-med.ac.JPN/
+894,JPN,"Kanazawa University",http://www.kanazawa-u.ac.JPN/
+895,JPN,"Kanda University of International Studies",http://www.kuis.ac.JPN/
+896,JPN,"Kansai Gaidai University",http://www.kansai-gaidai-u.ac.JPN/
+897,JPN,"Kansai Medical University",http://www.kmu.ac.JPN/
+898,JPN,"Kansai University",http://www.kansai-u.ac.JPN/
+899,JPN,"Kansai University of International Studies",http://www.kuins.ac.JPN/
+900,JPN,"Kansai University of Social Welfare",http://www.kusw.ac.JPN/
+901,JPN,"Kanto Gakuen University",http://www.kanto-gakuen.ac.JPN/
+902,JPN,"Kanto Gakuin University",http://www.kanto-gakuin.ac.JPN/
+903,JPN,"Kawamura Gakuen Woman's University",http://www.kgwu.ac.JPN/
+904,JPN,"Kawasaki Medical School",http://www.kawasaki-m.ac.JPN/
+905,JPN,"Kawasaki University of Medical Care",http://www.kawasaki-m.ac.JPN/mw/
+906,JPN,"Keiai University",http://www.u-keiai.ac.JPN/
+907,JPN,"Keio University",http://www.keio.ac.JPN/
+908,JPN,"Keisen Jogaku-en College",http://www.keisen.ac.JPN/
+909,JPN,"Keiwa College",http://www.keiwa-c.ac.JPN/
+910,JPN,"Kibi International University",http://www.kiui.ac.JPN/
+911,JPN,"Kinjo Gakuin University",http://www.kinjo-u.ac.JPN/
+912,JPN,"Kinki University",http://www.kindai.ac.JPN/
+913,JPN,"Kitakyushu University",http://www.kitakyu-u.ac.JPN/
+914,JPN,"Kitami Institute of Technology",http://www.kitami-it.ac.JPN/
+915,JPN,"Kitasato University",http://www.kitasato-u.ac.JPN/
+916,JPN,"Kobe City University of ForeignStudies",http://www.kobe-cufs.ac.JPN/
+917,JPN,"Kobe Design University",http://www.kobe-du.ac.JPN/
+918,JPN,"Kobe Gakuin University",http://www.kobegakuin.ac.JPN/
+919,JPN,"Kobe International University",http://www.kobe-kiu.ac.JPN/
+920,JPN,"Kobe Jogakuin University",http://www.kobe-c.ac.JPN/
+921,JPN,"Kobe Pharmaceutical University",http://www.kobepharma-u.ac.JPN/
+922,JPN,"Kobe Shinwa Women's University",http://www.kobe-shinwa.ac.JPN/
+923,JPN,"Kobe Shoin Women's University",http://www.shoin.ac.JPN/
+924,JPN,"Kobe University",http://www.kobe-u.ac.JPN/
+925,JPN,"Kobe University of Mercantile Marine",http://www.kshosen.ac.JPN/
+926,JPN,"Kobe Women's University",http://www.suma.kobe-wu.ac.JPN/
+927,JPN,"Kochi Medical School",http://www.kochi-ms.ac.JPN/
+928,JPN,"Kochi University",http://www.kochi-u.ac.JPN/
+929,JPN,"Kochi University of Technology",http://www.kochi-tech.ac.JPN/
+930,JPN,"Kochi Women's University",http://www.kochi-wu.ac.JPN/
+931,JPN,"Kogakkan University",http://www.kogakkan-u.ac.JPN/
+932,JPN,"Kogakuin University",http://www.kogakuin.ac.JPN/
+933,JPN,"Koka Women's College",http://www.koka.ac.JPN/
+934,JPN,"Kokugakuin University",http://www.kokugakuin.ac.JPN/
+935,JPN,"Kokushikan University",http://www.kokushikan.ac.JPN/
+936,JPN,"Komazawa University",http://www.komazawa-u.ac.JPN/
+937,JPN,"Konan University",http://www.konan-u.ac.JPN/
+938,JPN,"Konan Women's University",http://www.konan-wu.ac.JPN/
+939,JPN,"Korea University",http://www.korea-u.ac.JPN/
+940,JPN,"Koriyama Women's University and College",http://www.koriyama-kgc.ac.JPN/
+941,JPN,"Koshien University",http://www.koshien.ac.JPN/
+942,JPN,"Koyasan University",http://www.koyasan-u.ac.JPN/
+943,JPN,"Kumamoto Gakuen University",http://www.kumagaku.ac.JPN/
+944,JPN,"Kumamoto Institute of Technology",http://www.knct.ac.JPN/
+945,JPN,"Kumamoto Prefectural University",http://www.pu-kumamoto.ac.JPN/
+946,JPN,"Kumamoto University",http://www.kumamoto-u.ac.JPN/
+947,JPN,"Kunitachi College of Music",http://www.kunitachi.ac.JPN/
+948,JPN,"Kurashiki Sakuyo University",http://www.ksu.ac.JPN/
+949,JPN,"Kurashiki University of Science and the Arts",http://www.kusa.ac.JPN/
+950,JPN,"Kure University",http://www.kure-u.ac.JPN/
+951,JPN,"Kurume Institute of Technology",http://www.kurume-it.ac.JPN/
+952,JPN,"Kurume University",http://www.kurume-u.ac.JPN/
+953,JPN,"Kushiro Public University of Economics",http://www.kushiro-pu.ac.JPN/
+954,JPN,"Kwansei Gakuin University",http://www.kwansei.ac.JPN/
+955,JPN,"Kwassui Women's College",http://www.kwassui.ac.JPN/
+956,JPN,"Kyorin University",http://www.kyorin-u.ac.JPN/
+957,JPN,"Kyoritsu Pharmaceutical University",http://www.kyoritsu-ph.ac.JPN/
+958,JPN,"Kyoritsu Woman's University",http://www.kyoritsu-wu.ac.JPN/
+959,JPN,"Kyoto Bunkyo University",http://www.kbu.ac.JPN/
+960,JPN,"Kyoto City University of Arts",http://www.kcua.ac.JPN/
+961,JPN,"Kyoto Gakuen University",http://www.kyotogakuen-u.ac.JPN/
+962,JPN,"Kyoto Institute of Technology",http://www.kit.ac.JPN/
+963,JPN,"Kyoto Pharmaceutical University",http://www.kyoto-phu.ac.JPN/
+964,JPN,"Kyoto Prefectural University",http://www.kpu.ac.JPN/
+965,JPN,"Kyoto Prefectural University of Medicine",http://www.kpu-m.ac.JPN/
+966,JPN,"Kyoto Sangyo University",http://www.kyoto-su.ac.JPN/
+967,JPN,"Kyoto Seika University",http://www.kyoto-seika.ac.JPN/
+968,JPN,"Kyoto Tachibana Women's University",http://www.tachibana-u.ac.JPN/
+969,JPN,"Kyoto University",http://www.kyoto-u.ac.JPN/
+970,JPN,"Kyoto University of Art and Design",http://www.kyoto-art.ac.JPN/
+971,JPN,"Kyoto University of Education",http://www.kyokyo-u.ac.JPN/
+972,JPN,"Kyoto University of Foreign Studies",http://www.kufs.ac.JPN/
+973,JPN,"Kyoto Women's University",http://www.kyoto-wu.ac.JPN/
+974,JPN,"Kyushu Dental College",http://www.kyu-dent.ac.JPN/
+975,JPN,"Kyushu Institute of Design",http://www.kyushu-id.ac.JPN/
+976,JPN,"Kyushu Institute of Technology",http://www.kyutech.ac.JPN/
+977,JPN,"Kyushu International University",http://www.kiu.ac.JPN/
+978,JPN,"Kyushu Kyoritsu University",http://www.kyukyo-u.ac.JPN/
+979,JPN,"Kyushu Sangyo University",http://www.ip.kyusan-u.ac.JPN/
+980,JPN,"Kyushu Tokai University",http://www.ktokai-u.ac.JPN/
+981,JPN,"Kyushu University",http://www.kyushu-u.ac.JPN/
+982,JPN,"Kyushu University of Nursing and SocialWelfare",http://www.kyushu-ns.ac.JPN/
+983,JPN,"Kyushu Women's University",http://www.kwuc.ac.JPN/
+984,JPN,"Matsumoto Dental University",http://www.mdu.ac.JPN/
+985,JPN,"Matsusaka University",http://www.mie-chukyo-u.ac.JPN/
+986,JPN,"Matsuyama University",http://www.matsuyama-u.ac.JPN/
+987,JPN,"Meiji College of Pharmacy",http://www.my-pharm.ac.JPN/
+988,JPN,"Meiji Gakuin University",http://www.meijigakuin.ac.JPN/
+989,JPN,"Meiji University",http://www.meiji.ac.JPN/
+990,JPN,"Meiji University of Oriental Medicine",http://www.meiji-u.ac.JPN/
+991,JPN,"Meijo University",http://www.meijo-u.ac.JPN/
+992,JPN,"Meikai University",http://www.meikai.ac.JPN/
+993,JPN,"Meio University",http://www.meio-u.ac.JPN/
+994,JPN,"Meisei University",http://www.meisei-u.ac.JPN/
+995,JPN,"Mejiro University",http://www.mejiro.ac.JPN/
+996,JPN,"Mie University",http://www.mie-u.ac.JPN/
+997,JPN,"Mimasaka Women's College",http://www.mimasaka.ac.JPN/
+998,JPN,"Minamikyushu University",http://www.nankyudai.ac.JPN/
+999,JPN,"Miyagi Gakuin Women's College",http://www.mgu.ac.JPN/
+1000,JPN,"Miyagi University",http://www.myu.ac.JPN/
+1001,JPN,"Miyagi University of Education",http://www.miyakyo-u.ac.JPN/
+1002,JPN,"Miyazaki Medical College",http://www.miyazaki-med.ac.JPN/
+1003,JPN,"Miyazaki Municipal University",http://www.miyazaki-mu.ac.JPN/
+1004,JPN,"Miyazaki Prefectural Nursing University",http://www.mpu.ac.JPN/
+1005,JPN,"Miyazaki University",http://www.miyazaki-u.ac.JPN/
+1006,JPN,"Morioka College",http://www.morioka-u.ac.JPN/
+1007,JPN,"Mukogawa Women's University",http://www.mukogawa-u.ac.JPN/
+1008,JPN,"Muroran Institute of Technology",http://www.muroran-it.ac.JPN/
+1009,JPN,"Musashi Institute of Technology",http://www.musashi-tech.ac.JPN/
+1010,JPN,"Musashino Academy of Music",http://www.musashino-music.ac.JPN/
+1011,JPN,"Musashino Art University",http://www.musabi.ac.JPN/
+1012,JPN,"Musashino Women's University",http://www.musashino-wu.ac.JPN/
+1013,JPN,"Musashi University",http://www.musashi.ac.JPN/
+1014,JPN,"Nagano University",http://www.nagano.ac.JPN/
+1015,JPN,"Nagaoka University of Technology",http://www.nagaokaut.ac.JPN/
+1016,JPN,"Nagasaki Institute of Applied Science",http://www.nias.ac.JPN/
+1017,JPN,"Nagasaki Prefectural University",http://www.nagasakipu.ac.JPN/
+1018,JPN,"Nagasaki University",http://www.nagasaki-u.ac.JPN/
