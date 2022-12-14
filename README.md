@@ -42,5 +42,3 @@ import csv files to respective tables -
 scrape covid data using script - scritp/covidscript.ipynb
 import covid csv into the table 
 import tables csv into database - script/ingestion_pythonscript.ipynb
-
-
