@@ -1,4 +1,6 @@
 #Views
+CREATE ALGORITHM=UNDEFINED DEFINER=`root`@`localhost` SQL SECURITY DEFINER VIEW `internet_gdp_country_view` AS select `c`.`country_code` AS `country_code`,`c`.`country_name` AS `country_name`,`i`.`income_person` AS `income_person`,`i`.`internet_rate` AS `internet_rate`,`g`.`year_2020` AS `year_2020`,`g`.`year_2021` AS `year_2021` from ((`country` `c` join `internet` `i` on((`c`.`country_code` = `i`.`country_code`))) join `gdp` `g` on((`c`.`country_code` = `g`.`country_code`)));
+
 create view country_happiness_gdp_crime as
 select c.country_code, c.country_name, h.freedom, h.happiness_score, g.year_2020, g.year_2021, cr.crime_index, cr.unemployment
 from country c
