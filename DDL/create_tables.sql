@@ -60,7 +60,7 @@ country_code CHAR(5) primary key,
 Year INT,
 Gold INT,
 Silver INT,
-Bronze INT,
+Broze INT,
 foreign key(country_code) references country(country_code) );
 
 Create table if not exists universities(
