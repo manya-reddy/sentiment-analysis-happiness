@@ -1,150 +1,71 @@
-#Creating tables country, covidstatus, crime, gdp, happiness, internet, literacy, medals, universities, alchappiness.
+create table if not exists crime(
+crime_id INT primary key auto_increment,
+country_code CHAR(5),
+crime_index DECIMAL(10,6),
+unemployment DECIMAL(10,6),
+foreign key (country_code) references country(country_code) );
 
--- MySQL Workbench Forward Engineering
+create table if not exists alchappiness(
+alchappiness_id INT primary key auto_increment, country_code CHAR(5),
+human_development DECIMAL(10,6), beer_capita DECIMAL(10,6),
+ wine_capita DECIMAl(10,6),
+foreign key (country_code) references country(country_code) );
 
-SET @OLD_UNIQUE_CHECKS=@@UNIQUE_CHECKS, UNIQUE_CHECKS=0;
-SET @OLD_FOREIGN_KEY_CHECKS=@@FOREIGN_KEY_CHECKS, FOREIGN_KEY_CHECKS=0;
-SET @OLD_SQL_MODE=@@SQL_MODE, SQL_MODE='ONLY_FULL_GROUP_BY,STRICT_TRANS_TABLES,NO_ZERO_IN_DATE,NO_ZERO_DATE,ERROR_FOR_DIVISION_BY_ZERO,NO_ENGINE_SUBSTITUTION';
+create table if not exists gdp(
+gdp_id INT primary key auto_increment,
+country_code CHAR(5),
+year_2020 BIGINT(50),
+year_2021 BIGINT(50),
+foreign key (country_code) references country(country_code) );
 
--- -----------------------------------------------------
--- Schema mydb
--- -----------------------------------------------------
--- -----------------------------------------------------
--- Schema assignment_3
--- -----------------------------------------------------
+create table if not exists happiness(
+happiness_id INT primary key auto_increment,
+country_code CHAR(5),
+freedom DECIMAL(10,6),
+happiness_score DECIMAL(10,6),
+foreign key (country_code) references country(country_code) );
 
--- -----------------------------------------------------
--- Schema assignment_3
--- -----------------------------------------------------
-CREATE SCHEMA IF NOT EXISTS `assignment_3` DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_0900_ai_ci ;
-USE `assignment_3` ;
+create table if not exists internet(
+internet_id INT primary key auto_increment,
+country_code CHAR(5),
+income_person DECIMAL(20,10),
+internet_rate DECIMAL(20,10),
+foreign key (country_code) references country(country_code) );
 
--- -----------------------------------------------------
--- Table `assignment_3`.`country`
--- -----------------------------------------------------
-CREATE TABLE IF NOT EXISTS `assignment_3`.`country` (
-  `country_code` CHAR(5) NOT NULL,
-  `country_name` VARCHAR(25) NULL DEFAULT NULL,
-  PRIMARY KEY (`country_code`))
-ENGINE = InnoDB
-DEFAULT CHARACTER SET = utf8mb4
-COLLATE = utf8mb4_0900_ai_ci;
+create table if not exists literacy(
+literacy_id INT primary key auto_increment,
+country_code CHAR(5),
+data_year INT,
+literacy_rate DECIMAL(10,6),
+population BIGINT(55),
+foreign key (country_code) references country(country_code) );
 
-
--- -----------------------------------------------------
--- Table `assignment_3`.`alchappiness`
--- -----------------------------------------------------
-CREATE TABLE IF NOT EXISTS `assignment_3`.`alchappiness` (
-  `country_code` CHAR(5) PRIMARY KEY,
-  `human_development` DECIMAL(10,6) NULL DEFAULT NULL,
-  `beer_capita` DECIMAL(10,6) NULL DEFAULT NULL,
-  `wine_capita` DECIMAL(10,6) NULL DEFAULT NULL,
-  INDEX `country_code` (`country_code` ASC) VISIBLE,
-  CONSTRAINT `alchappiness_ibfk_1`
-    FOREIGN KEY (`country_code`)
-    REFERENCES `assignment_3`.`country` (`country_code`))
-ENGINE = InnoDB
-AUTO_INCREMENT = 107
-DEFAULT CHARACTER SET = utf8mb4
-COLLATE = utf8mb4_0900_ai_ci;
+create table if not exists country(
+country_code CHAR(5) primary key, country_name VARCHAR(25) );
 
 
--- -----------------------------------------------------
--- Table `assignment_3`.`crime`
--- -----------------------------------------------------
-CREATE TABLE IF NOT EXISTS `assignment_3`.`crime` (
-  `crime_id` INT NOT NULL AUTO_INCREMENT,
-  `country_code` CHAR(5) NULL DEFAULT NULL,
-  `crime_index` DECIMAL(10,6) NULL DEFAULT NULL,
-  `unemployment` DECIMAL(10,6) NULL DEFAULT NULL,
-  PRIMARY KEY (`crime_id`),
-  INDEX `country_code` (`country_code` ASC) VISIBLE,
-  CONSTRAINT `crime_ibfk_1`
-    FOREIGN KEY (`country_code`)
-    REFERENCES `assignment_3`.`country` (`country_code`))
-ENGINE = InnoDB
-AUTO_INCREMENT = 112
-DEFAULT CHARACTER SET = utf8mb4
-COLLATE = utf8mb4_0900_ai_ci;
 
 
--- -----------------------------------------------------
--- Table `assignment_3`.`gdp`
--- -----------------------------------------------------
-CREATE TABLE IF NOT EXISTS `assignment_3`.`gdp` (
-  `gdp_id` INT NOT NULL AUTO_INCREMENT,
-  `country_code` CHAR(5) NULL DEFAULT NULL,
-  `year_2020` BIGINT NULL DEFAULT NULL,
-  `year_2021` BIGINT NULL DEFAULT NULL,
-  PRIMARY KEY (`gdp_id`),
-  INDEX `country_code` (`country_code` ASC) VISIBLE,
-  CONSTRAINT `gdp_ibfk_1`
-    FOREIGN KEY (`country_code`)
-    REFERENCES `assignment_3`.`country` (`country_code`))
-ENGINE = InnoDB
-AUTO_INCREMENT = 230
-DEFAULT CHARACTER SET = utf8mb4
-COLLATE = utf8mb4_0900_ai_ci;
+create table if not exists covidstatus(
+country_code CHAR(5) primary key,
+total_cases INT,
+total_deaths INT,
+total_recovered INT,
+active_cases INT,
+death_permillion INT,
+foreign key(country_code) references country(country_code) );
 
+Create table if not exists medals(
+country_code CHAR(5) primary key,
+Year INT,
+Gold INT,
+Silver INT,
+Bronze INT,
+foreign key(country_code) references country(country_code) );
 
--- -----------------------------------------------------
--- Table `assignment_3`.`happiness`
--- -----------------------------------------------------
-CREATE TABLE IF NOT EXISTS `assignment_3`.`happiness` (
-  `happiness_id` INT NOT NULL AUTO_INCREMENT,
-  `country_code` CHAR(5) NULL DEFAULT NULL,
-  `freedom` DECIMAL(10,6) NULL DEFAULT NULL,
-  `happiness_score` DECIMAL(10,6) NULL DEFAULT NULL,
-  PRIMARY KEY (`happiness_id`),
-  INDEX `country_code` (`country_code` ASC) VISIBLE,
-  CONSTRAINT `happiness_ibfk_1`
-    FOREIGN KEY (`country_code`)
-    REFERENCES `assignment_3`.`country` (`country_code`))
-ENGINE = InnoDB
-AUTO_INCREMENT = 150
-DEFAULT CHARACTER SET = utf8mb4
-COLLATE = utf8mb4_0900_ai_ci;
-
-
--- -----------------------------------------------------
--- Table `assignment_3`.`internet`
--- -----------------------------------------------------
-CREATE TABLE IF NOT EXISTS `assignment_3`.`internet` (
-  `internet_id` INT NOT NULL AUTO_INCREMENT,
-  `country_code` CHAR(5) NULL DEFAULT NULL,
-  `income_person` DECIMAL(20,10) NULL DEFAULT NULL,
-  `internet_rate` DECIMAL(20,10) NULL DEFAULT NULL,
-  PRIMARY KEY (`internet_id`),
-  INDEX `country_code` (`country_code` ASC) VISIBLE,
-  CONSTRAINT `internet_ibfk_1`
-    FOREIGN KEY (`country_code`)
-    REFERENCES `assignment_3`.`country` (`country_code`))
-ENGINE = InnoDB
-AUTO_INCREMENT = 184
-DEFAULT CHARACTER SET = utf8mb4
-COLLATE = utf8mb4_0900_ai_ci;
-
-
--- -----------------------------------------------------
--- Table `assignment_3`.`literacy`
--- -----------------------------------------------------
-CREATE TABLE IF NOT EXISTS `assignment_3`.`literacy` (
-  `literacy_id` INT NOT NULL AUTO_INCREMENT,
-  `country_code` CHAR(5) NULL DEFAULT NULL,
-  `data_year` INT NULL DEFAULT NULL,
-  `literacy_rate` DECIMAL(10,6) NULL DEFAULT NULL,
-  `population` BIGINT NULL DEFAULT NULL,
-  PRIMARY KEY (`literacy_id`),
-  INDEX `country_code` (`country_code` ASC) VISIBLE,
-  CONSTRAINT `literacy_ibfk_1`
-    FOREIGN KEY (`country_code`)
-    REFERENCES `assignment_3`.`country` (`country_code`))
-ENGINE = InnoDB
-AUTO_INCREMENT = 208
-DEFAULT CHARACTER SET = utf8mb4
-COLLATE = utf8mb4_0900_ai_ci;
-
-
-SET SQL_MODE=@OLD_SQL_MODE;
-SET FOREIGN_KEY_CHECKS=@OLD_FOREIGN_KEY_CHECKS;
-SET UNIQUE_CHECKS=@OLD_UNIQUE_CHECKS;
+Create table if not exists universities(
+Uiversity_id INT primary key auto_increment,
+Country_code CHAR(5),
+Uni_name VARCHAR(100),
+Uni_url VARCHAR(100),
+foreign key(country_code) references country(country_code) );
