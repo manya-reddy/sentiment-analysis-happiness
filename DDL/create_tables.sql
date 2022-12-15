@@ -1,3 +1,10 @@
+create database if not exists assignment_3;
+use assignment_3;
+
+# Create tables
+create table if not exists country(
+country_code CHAR(5) primary key, country_name VARCHAR(25) );
+
 create table if not exists crime(
 crime_id INT primary key auto_increment,
 country_code CHAR(5),
@@ -39,12 +46,6 @@ data_year INT,
 literacy_rate DECIMAL(10,6),
 population BIGINT(55),
 foreign key (country_code) references country(country_code) );
-
-create table if not exists country(
-country_code CHAR(5) primary key, country_name VARCHAR(25) );
-
-
-
 
 create table if not exists covidstatus(
 country_code CHAR(5) primary key,
